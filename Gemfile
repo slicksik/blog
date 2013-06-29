@@ -33,6 +33,8 @@ gem 'unicorn'
 
 # Deploy with Capistrano
 gem 'capistrano'
+ gem 'execjs'
+gem 'rvm/capistrano'
 
 # To use debugger
 # gem 'debugger'
