@@ -1,4 +1,4 @@
-require "bundle/capistrano"
+require "capistrano"
 
 server "82.196.15.153", :web, :app, :db, primary: true
 
